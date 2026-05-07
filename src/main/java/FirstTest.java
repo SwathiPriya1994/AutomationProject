@@ -9,6 +9,7 @@ public class FirstTest {
 		driver.get("https://www.google.com");
 		String title = driver.getTitle();
 		System.out.println(title);
+		System.out.println(title);
 		driver.quit();
 		// TODO Auto-generated method stub
 
